@@ -53,7 +53,7 @@ const ProductCard = ({ products }: ProductCardProps) => {
 
               {/* Product Description */}
               <p className="text-sm text-gray-600 leading-relaxed">
-                {product.description || `Same as ${product.name} but with a larger display and battery.`}
+                
               </p>
 
               {/* Star Rating */}
