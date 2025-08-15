@@ -1,0 +1,9 @@
+[
+  { "title": "HOME", "link": "/" },
+  { "title": "ABOUT", "link": "/about" },
+  { "title": "COURSES", "link": "/courses" },
+  { "title": "TEACHER", "link": "/teacher" },
+  { "title": "EVENTS", "link": "/events" },
+  { "title": "BLOG", "link": "/blog" },
+  { "title": "CONTACT", "link": "/contact" }
+]
